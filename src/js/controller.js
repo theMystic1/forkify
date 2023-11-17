@@ -3,7 +3,7 @@ import { async } from 'regenerator-runtime';
 import * as model from './module.js';
 import { Fraction } from 'fractional';
 
-// import the recipeview class obj
+// import the recipeview class objert
 import recipeView from './views/recipe-view.js';
 import searchView from './views/search-view.js';
 import resultsView from './views/results-view.js';
