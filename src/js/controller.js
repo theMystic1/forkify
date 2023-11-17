@@ -1,6 +1,8 @@
 //import the module.js component
 import { async } from 'regenerator-runtime';
 import * as model from './module.js';
+import { Fraction } from 'fractional';
+
 // import the recipeview class obj
 import recipeView from './views/recipe-view.js';
 import searchView from './views/search-view.js';

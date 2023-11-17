@@ -1,4 +1,5 @@
 import { async } from 'regenerator-runtime';
+import { Fraction } from 'fractional';
 
 // export the API URL from the config file
 import { API_URL, RESULTS_PER_PAGE, KEY } from './config.js';
