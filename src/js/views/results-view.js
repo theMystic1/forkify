@@ -1,7 +1,6 @@
 //import the parent class file
 import View from './view';
 import previewView from './preview-view';
-import { Fraction } from 'fractional';
 
 // import icons from 'url:../../img/icons.svg';
 

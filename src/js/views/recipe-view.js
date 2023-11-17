@@ -3,7 +3,6 @@ import View from './view.js';
 //importing icons from the icon directory
 import icons from 'url:../../img/icons.svg';
 // importing the  al kiniko
-import { Fraction } from 'fractional';
 class RecipeView extends View {
   // the parent element
   _parentElement = document.querySelector('.recipe');
